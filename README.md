@@ -1,4 +1,10 @@
 ## 0224066 陳則維 ##
+###School ->Nkfust ###
+**Class -> MIS**
+*sed. gread*
+> this is just a easy test for git and MD.
+
+["Yahoo"](http://yahoo.com )
 
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 
