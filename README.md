@@ -6,6 +6,45 @@
 
 ["Yahoo"](http://yahoo.com )
 
+
+## The Book scenario ##
+1.User want to buy a book
+2.They only know the books type
+3.Enter the type 
+4.Select the book they want
+5.If they find it end the program
+6.If they don't keep serching
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 
 ### Built exclusively for Markdown ###
